@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="23807" started-at="2021-02-17T16:53:56 IST" finished-at="2021-02-17T16:54:20 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23807" started-at="2021-02-17T16:53:56 IST" finished-at="2021-02-17T16:54:20 IST">
+      <class name="com.qa.sut.testClasses.HomeTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qa.sut.testClasses.HomeTest@30a3107a]" name="launchBrowser" is-config="true" duration-ms="8277" started-at="2021-02-17T16:53:56 IST" finished-at="2021-02-17T16:54:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyLogOut()[pri:0, instance:com.qa.sut.testClasses.HomeTest@30a3107a]" name="verifyLogOut" duration-ms="4746" started-at="2021-02-17T16:54:05 IST" finished-at="2021-02-17T16:54:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogOut -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.sut.testClasses.HomeTest@30a3107a]" name="closeBrowser" is-config="true" duration-ms="161" started-at="2021-02-17T16:54:10 IST" finished-at="2021-02-17T16:54:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.sut.testClasses.HomeTest -->
+      <class name="com.qa.sut.testClasses.LoginTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qa.sut.testClasses.LoginTest@33c7e1bb]" name="launchBrowser" is-config="true" duration-ms="5288" started-at="2021-02-17T16:54:10 IST" finished-at="2021-02-17T16:54:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:com.qa.sut.testClasses.LoginTest@33c7e1bb]" name="verifyPageTitle" duration-ms="12" started-at="2021-02-17T16:54:15 IST" finished-at="2021-02-17T16:54:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="verifyLogin()[pri:1, instance:com.qa.sut.testClasses.LoginTest@33c7e1bb]" name="verifyLogin" duration-ms="5158" started-at="2021-02-17T16:54:15 IST" finished-at="2021-02-17T16:54:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.sut.testClasses.LoginTest@33c7e1bb]" name="closeBrowser" is-config="true" duration-ms="116" started-at="2021-02-17T16:54:20 IST" finished-at="2021-02-17T16:54:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.sut.testClasses.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

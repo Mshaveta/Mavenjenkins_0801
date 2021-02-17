@@ -1,0 +1,6 @@
+com\qa\sut\pages\HomePage.class
+com\qa\sut\utility\ReadConfigProp.class
+com\qa\sut\pages\BasePage.class
+com\qa\sut\pages\Page.class
+com\qa\sut\utility\XlsReader.class
+com\qa\sut\pages\LoginPage.class
